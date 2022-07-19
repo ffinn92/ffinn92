@@ -1,7 +1,5 @@
 ### 
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋Hi,%20I%20am%20Vans&fontSize=70)
-
+👋 Hi I am Vans
 
 ![ffinn92](https://github-readme-stats.vercel.app/api?username=ffinn92&show_icons=true&theme=flag-india)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffinn92&theme=flag-india&layout=compact)](https://github.com/ffinn92)
