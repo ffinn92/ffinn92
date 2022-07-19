@@ -1,9 +1,10 @@
 ### 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋Hi,%20Welcome&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=👋Hi,%20I%20am%20Vans&fontSize=70)
 
-![ffinn92](https://github-readme-stats.vercel.app/api?username=ffinn92&show_icons=true)
-[![ffinn92](https://github-readme-stats.vercel.app/api/top-langs/?username=ffinn92&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/ffinn92)
+
+![ffinn92](https://github-readme-stats.vercel.app/api?username=ffinn92&show_icons=true&theme=flag-india)
+[![ffinn92](https://github-readme-stats.vercel.app/api/top-langs/?username=ffinn92&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=flag-india)](https://github.com/ffinn92)
 
 <!--
 **ffinn92/ffinn92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
