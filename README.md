@@ -4,7 +4,8 @@
 
 
 ![ffinn92](https://github-readme-stats.vercel.app/api?username=ffinn92&show_icons=true&theme=flag-india)
-[![ffinn92](https://github-readme-stats.vercel.app/api/top-langs/?username=ffinn92&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact&theme=flag-india)](https://github.com/ffinn92)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffinn92&theme=flag-india&layout=compact)](https://github.com/ffinn92)
+
 
 <!--
 **ffinn92/ffinn92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
