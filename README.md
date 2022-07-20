@@ -4,6 +4,7 @@
 ![ffinn92](https://github-readme-stats.vercel.app/api?username=ffinn92&show_icons=true&theme=flag-india)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffinn92&theme=flag-india&layout=compact)](https://github.com/ffinn92)
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fffinn92&count_bg=%23FFA427&title_bg=%2334A00A&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **ffinn92/ffinn92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
